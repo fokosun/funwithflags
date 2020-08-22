@@ -499,6 +499,50 @@ let data = [
         'code': 'kz',
         'country': 'kazakhstan',
         'nationality': 'kazakhstan'
+    }, {
+        'code': 'la',
+        'country': 'laos',
+        'nationality': 'laos'
+    }, {
+        'code': 'lb',
+        'country': 'lebanon',
+        'nationality': 'lebanon'
+    }, {
+        'code': 'lc',
+        'country': 'saint lucia',
+        'nationality': 'saint lucia'
+    }, {
+        'code': 'li',
+        'country': 'liechtenstein',
+        'nationality': 'liechtenstein'
+    }, {
+        'code': 'lk',
+        'country': 'sri lanka',
+        'nationality': 'sri lanka'
+    }, {
+        'code': 'lr',
+        'country': 'liberia',
+        'nationality': 'liberia'
+    }, {
+        'code': 'ls',
+        'country': 'lesotho',
+        'nationality': 'lesotho'
+    }, {
+        'code': 'lt',
+        'country': 'lithuania',
+        'nationality': 'lithuania'
+    }, {
+        'code': 'lu',
+        'country': 'luxembourg',
+        'nationality': 'luxembourg'
+    }, {
+        'code': 'lv',
+        'country': 'latvia',
+        'nationality': 'latvia'
+    }, {
+        'code': 'ly',
+        'country': 'libya',
+        'nationality': 'libya'
     },
 ];
 
@@ -506,72 +550,6 @@ module.exports = {
     data
 };
 
-//         <td><i class="laos flag"></i></td>
-//         <td>Laos</td>
-//         <td>la</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="lebanon flag"></i></td>
-//         <td>Lebanon</td>
-//         <td>lb</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="saint lucia flag"></i></td>
-//         <td>Saint Lucia</td>
-//         <td>lc</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="liechtenstein flag"></i></td>
-//         <td>Liechtenstein</td>
-//         <td>li</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="sri lanka flag"></i></td>
-//         <td>Sri Lanka</td>
-//         <td>lk</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="liberia flag"></i></td>
-//         <td>Liberia</td>
-//         <td>lr</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="lesotho flag"></i></td>
-//         <td>Lesotho</td>
-//         <td>ls</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="lithuania flag"></i></td>
-//         <td>Lithuania</td>
-//         <td>lt</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="luxembourg flag"></i></td>
-//         <td>Luxembourg</td>
-//         <td>lu</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="latvia flag"></i></td>
-//         <td>Latvia</td>
-//         <td>lv</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="libya flag"></i></td>
-//         <td>Libya</td>
-//         <td>ly</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
 //         <td><i class="morocco flag"></i></td>
 //         <td>Morocco</td>
 //         <td>ma</td>

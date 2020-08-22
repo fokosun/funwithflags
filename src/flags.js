@@ -272,9 +272,121 @@ let data = [
         'country': 'european union',
         'nationality': 'european union'
     }, {
-        'code': 'eu',
+        'code': 'fi',
         'country': 'finland',
         'nationality': 'finish'
+    }, {
+        'code': 'fj',
+        'country': 'fiji',
+        'nationality': 'fiji'
+    }, {
+        'code': 'fj',
+        'country': 'fiji',
+        'nationality': 'fiji'
+    }, {
+        'code': 'fk',
+        'country': 'falkland islands',
+        'nationality': 'falkland islands'
+    }, {
+        'code': 'fm',
+        'country': 'micronesia',
+        'nationality': 'micronesia'
+    }, {
+        'code': 'fo',
+        'country': 'faroe islands',
+        'nationality': 'faroe islands'
+    }, {
+        'code': 'fr',
+        'country': 'france',
+        'nationality': 'france'
+    }, {
+        'code': 'ga',
+        'country': 'gabon',
+        'nationality': 'gabon'
+    }, {
+        'code': 'gb uk',
+        'country': 'united kingdom',
+        'nationality': 'british'
+    }, {
+        'code': 'gb eng',
+        'country': 'england',
+        'nationality': 'british'
+    }, {
+        'code': 'gb sct',
+        'country': 'scotland',
+        'nationality': 'scotland'
+    }, {
+        'code': 'gb wls',
+        'country': 'wales',
+        'nationality': 'wales'
+    }, {
+        'code': 'gd',
+        'country': 'grenada',
+        'nationality': 'grenada'
+    }, {
+        'code': 'ge',
+        'country': 'georgia',
+        'nationality': 'georgia'
+    }, {
+        'code': 'gf',
+        'country': 'french guiana',
+        'nationality': 'french guiana'
+    }, {
+        'code': 'gh',
+        'country': 'ghana',
+        'nationality': 'ghana'
+    }, {
+        'code': 'gi',
+        'country': 'gibraltar',
+        'nationality': 'gibraltar'
+    }, {
+        'code': 'gl',
+        'country': 'greenland',
+        'nationality': 'greenland'
+    }, {
+        'code': 'gm',
+        'country': 'gambia',
+        'nationality': 'gambia'
+    }, {
+        'code': 'gn',
+        'country': 'guinea',
+        'nationality': 'guinea'
+    }, {
+        'code': 'gp',
+        'country': 'guadeloupe',
+        'nationality': 'guadeloupe'
+    }, {
+        'code': 'gq',
+        'country': 'equatorial guinea',
+        'nationality': 'equatorial guinea'
+    }, {
+        'code': 'gr',
+        'country': 'greece',
+        'nationality': 'greece'
+    }, {
+        'code': 'gs',
+        'country': 'sandwich islands',
+        'nationality': 'sandwich islands'
+    }, {
+        'code': 'gt',
+        'country': 'guatemala',
+        'nationality': 'guatemala'
+    }, {
+        'code': 'gu',
+        'country': 'guam',
+        'nationality': 'guam'
+    }, {
+        'code': 'gw',
+        'country': 'guinea-bissau',
+        'nationality': 'guinea-bissau'
+    }, {
+        'code': 'gw',
+        'country': 'guyana',
+        'nationality': 'guyana'
+    }, {
+        'code': 'gw',
+        'country': 'guyana',
+        'nationality': 'guyana'
     },
 ];
 
@@ -282,168 +394,6 @@ module.exports = {
     data
 };
 
-//         <td><i class="finland flag"></i></td>
-//         <td>Finland</td>
-//         <td>fi</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="fiji flag"></i></td>
-//         <td>Fiji</td>
-//         <td>fj</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="falkland islands flag"></i></td>
-//         <td>Falkland Islands</td>
-//         <td>fk</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="micronesia flag"></i></td>
-//         <td>Micronesia</td>
-//         <td>fm</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="faroe islands flag"></i></td>
-//         <td>Faroe Islands</td>
-//         <td>fo</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="france flag"></i></td>
-//         <td>France</td>
-//         <td>fr</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="gabon flag"></i></td>
-//         <td>Gabon</td>
-//         <td>ga</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="united kingdom flag"></i></td>
-//         <td>United Kingdom</td>
-//         <td>gb uk</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="england flag"></i></td>
-//         <td>England</td>
-//         <td>gb eng</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="scotland flag"></i></td>
-//         <td>Scotland</td>
-//         <td>gb sct</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="wales flag"></i></td>
-//         <td>Wales</td>
-//         <td>gb wls</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="grenada flag"></i></td>
-//         <td>Grenada</td>
-//         <td>gd</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="georgia flag"></i></td>
-//         <td>Georgia</td>
-//         <td>ge</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="french guiana flag"></i></td>
-//         <td>French Guiana</td>
-//         <td>gf</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="ghana flag"></i></td>
-//         <td>Ghana</td>
-//         <td>gh</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="gibraltar flag"></i></td>
-//         <td>Gibraltar</td>
-//         <td>gi</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="greenland flag"></i></td>
-//         <td>Greenland</td>
-//         <td>gl</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="gambia flag"></i></td>
-//         <td>Gambia</td>
-//         <td>gm</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="guinea flag"></i></td>
-//         <td>Guinea</td>
-//         <td>gn</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="guadeloupe flag"></i></td>
-//         <td>Guadeloupe</td>
-//         <td>gp</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="equatorial guinea flag"></i></td>
-//         <td>Equatorial Guinea</td>
-//         <td>gq</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="greece flag"></i></td>
-//         <td>Greece</td>
-//         <td>gr</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="sandwich islands flag"></i></td>
-//         <td>Sandwich Islands</td>
-//         <td>gs</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="guatemala flag"></i></td>
-//         <td>Guatemala</td>
-//         <td>gt</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="guam flag"></i></td>
-//         <td>Guam</td>
-//         <td>gu</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="guinea-bissau flag"></i></td>
-//         <td>Guinea-bissau</td>
-//         <td>gw</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="guyana flag"></i></td>
-//         <td>Guyana</td>
-//         <td>gy</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
 //         <td><i class="hong kong flag"></i></td>
 //         <td>Hong Kong</td>
 //         <td>hk</td>

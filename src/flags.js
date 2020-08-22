@@ -1,118 +1,79 @@
 let data = [
     {
-        'code': 'ng',
-        'country': 'nigeria',
-        'nationality': 'Nigerian'
+        'code': 'ad',
+        'country': 'andorra',
+        'nationality': 'andorran'
     }, {
-        'code': 'us',
-        'country': 'usa',
-        'nationality': 'American'
-    }
+        'code': 'uae',
+        'country': 'United Arab Emirates',
+        'nationality': 'U.A.E'
+    }, {
+        'code': 'af',
+        'country': 'afghanistan',
+        'nationality': 'afghanistan'
+    }, {
+        'code': 'ag',
+        'country': 'antigua',
+        'nationality': 'antiguan'
+    }, {
+        'code': 'ai',
+        'country': 'anguilla',
+        'nationality': 'anguillan'
+    }, {
+        'code': 'al',
+        'country': 'albania',
+        'nationality': 'albanian'
+    }, {
+        'code': 'am',
+        'country': 'armenia',
+        'nationality': 'armenian'
+    }, {
+        'code': 'an',
+        'country': 'netherlands nntilles',
+        'nationality': 'Netherlands Antilles'
+    }, {
+        'code': 'ao',
+        'country': 'netherlands nntilles',
+        'nationality': 'Netherlands Antilles'
+    }, {
+        'code': 'ao',
+        'country': 'angola',
+        'nationality': 'angolian'
+    }, {
+        'code': 'ar',
+        'country': 'Argentina',
+        'nationality': 'Argentina'
+    }, {
+        'code': 'as',
+        'country': 'american samoa',
+        'nationality': 'american samoa'
+    }, {
+        'code': 'at',
+        'country': 'austria',
+        'nationality': 'austria'
+    }, {
+        'code': 'au',
+        'country': 'Australia',
+        'nationality': 'Australia'
+    }, {
+        'code': 'aw',
+        'country': 'aruba',
+        'nationality': 'aruba'
+    }, {
+        'code': 'ax',
+        'country': 'Aland Islands',
+        'nationality': 'arAland Islandsuba'
+    }, {
+        'code': 'az',
+        'country': 'azerbaijan',
+        'nationality': 'azerbaijan'
+    },
 ];
 
 module.exports = {
     data
 };
   
-// <table class="ui selectable sortable compact celled striped definition table">
-      
-//       <tr>
-//         <td><i class="andorra flag"></i></td>
-//         <td>Andorra</td>
-//         <td>ad</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="uae flag"></i></td>
-//         <td>U.A.E</td>
-//         <td>ae</td>
-//         <td>United Arab Emirates</td>
-//       </tr>
-//       <tr>
-//         <td><i class="afghanistan flag"></i></td>
-//         <td>Afghanistan</td>
-//         <td>af</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="antigua flag"></i></td>
-//         <td>Antigua</td>
-//         <td>ag</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="anguilla flag"></i></td>
-//         <td>Anguilla</td>
-//         <td>ai</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="albania flag"></i></td>
-//         <td>Albania</td>
-//         <td>al</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="armenia flag"></i></td>
-//         <td>Armenia</td>
-//         <td>am</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="netherlands antilles flag"></i></td>
-//         <td>Netherlands Antilles</td>
-//         <td>an</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="angola flag"></i></td>
-//         <td>Angola</td>
-//         <td>ao</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="argentina flag"></i></td>
-//         <td>Argentina</td>
-//         <td>ar</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="american samoa flag"></i></td>
-//         <td>American Samoa</td>
-//         <td>as</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="austria flag"></i></td>
-//         <td>Austria</td>
-//         <td>at</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="australia flag"></i></td>
-//         <td>Australia</td>
-//         <td>au</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="aruba flag"></i></td>
-//         <td>Aruba</td>
-//         <td>aw</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="aland islands flag"></i></td>
-//         <td>Aland Islands</td>
-//         <td>ax</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="azerbaijan flag"></i></td>
-//         <td>Azerbaijan</td>
-//         <td>az</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
 //         <td><i class="bosnia flag"></i></td>
 //         <td>Bosnia</td>
 //         <td>ba</td>

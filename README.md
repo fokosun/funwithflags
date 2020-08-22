@@ -13,7 +13,7 @@ Semantic ui provides classes to help render flags by using a combination of eith
     <i class="canada flag></i>
 ```
 
-Building this component is the easiet part, you can build it your self. This repo only helps to build the js file that contains a list of flag object with key value pairs to store the code, country and nationality.
+Building this component is the easiet part, you can build it your self. This repo majorly helps to build the js file that contains a list of flag objects with key value pairs to store the code, country and nationality.
 
 ```
     [

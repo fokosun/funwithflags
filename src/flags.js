@@ -543,6 +543,90 @@ let data = [
         'code': 'ly',
         'country': 'libya',
         'nationality': 'libya'
+    }, {
+        'code': 'ma',
+        'country': 'morocco',
+        'nationality': 'morocco'
+    }, {
+        'code': 'mc',
+        'country': 'monaco',
+        'nationality': 'monaco'
+    }, {
+        'code': 'md',
+        'country': 'moldova',
+        'nationality': 'moldova'
+    }, {
+        'code': 'me',
+        'country': 'montenegro',
+        'nationality': 'montenegro'
+    }, {
+        'code': 'mg',
+        'country': 'madagascar',
+        'nationality': 'madagascar'
+    }, {
+        'code': 'mh',
+        'country': 'marshall islands',
+        'nationality': 'marshall islands'
+    }, {
+        'code': 'mk',
+        'country': 'macedonia',
+        'nationality': 'macedonia'
+    }, {
+        'code': 'ml',
+        'country': 'mali',
+        'nationality': 'mali'
+    }, {
+        'code': 'mm',
+        'country': 'burma',
+        'nationality': 'burma'
+    }, {
+        'code': 'mn',
+        'country': 'mongolia',
+        'nationality': 'mongolia'
+    }, {
+        'code': 'mo',
+        'country': 'macau',
+        'nationality': 'macau'
+    }, {
+        'code': 'mp',
+        'country': 'northern mariana islands',
+        'nationality': 'northern mariana islands'
+    }, {
+        'code': 'mq',
+        'country': 'martinique',
+        'nationality': 'martinique'
+    }, {
+        'code': 'mr',
+        'country': 'mauritania',
+        'nationality': 'mauritania'
+    }, {
+        'code': 'ms',
+        'country': 'montserrat',
+        'nationality': 'montserrat'
+    }, {
+        'code': 'mu',
+        'country': 'mauritius',
+        'nationality': 'mauritius'
+    }, {
+        'code': 'mv',
+        'country': 'maldives',
+        'nationality': 'maldives'
+    }, {
+        'code': 'mw',
+        'country': 'malawi',
+        'nationality': 'malawi'
+    }, {
+        'code': 'mx',
+        'country': 'mexico',
+        'nationality': 'mexico'
+    }, {
+        'code': 'my',
+        'country': 'malaysia',
+        'nationality': 'malaysia'
+    }, {
+        'code': 'mz',
+        'country': 'mozambique',
+        'nationality': 'mozambique'
     },
 ];
 
@@ -550,132 +634,6 @@ module.exports = {
     data
 };
 
-//         <td><i class="morocco flag"></i></td>
-//         <td>Morocco</td>
-//         <td>ma</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="monaco flag"></i></td>
-//         <td>Monaco</td>
-//         <td>mc</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="moldova flag"></i></td>
-//         <td>Moldova</td>
-//         <td>md</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="montenegro flag"></i></td>
-//         <td>Montenegro</td>
-//         <td>me</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="madagascar flag"></i></td>
-//         <td>Madagascar</td>
-//         <td>mg</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="marshall islands flag"></i></td>
-//         <td>Marshall Islands</td>
-//         <td>mh</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="macedonia flag"></i></td>
-//         <td>Macedonia</td>
-//         <td>mk</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="mali flag"></i></td>
-//         <td>Mali</td>
-//         <td>ml</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="burma flag"></i></td>
-//         <td>Burma</td>
-//         <td>mm</td>
-//         <td>Myanmar</td>
-//       </tr>
-//       <tr>
-//         <td><i class="mongolia flag"></i></td>
-//         <td>Mongolia</td>
-//         <td>mn</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="macau flag"></i></td>
-//         <td>Macau</td>
-//         <td>mo</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="northern mariana islands flag"></i></td>
-//         <td>Northern Mariana Islands</td>
-//         <td>mp</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="martinique flag"></i></td>
-//         <td>Martinique</td>
-//         <td>mq</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="mauritania flag"></i></td>
-//         <td>Mauritania</td>
-//         <td>mr</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="montserrat flag"></i></td>
-//         <td>Montserrat</td>
-//         <td>ms</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="malta flag"></i></td>
-//         <td>Malta</td>
-//         <td>mt</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="mauritius flag"></i></td>
-//         <td>Mauritius</td>
-//         <td>mu</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="maldives flag"></i></td>
-//         <td>Maldives</td>
-//         <td>mv</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="malawi flag"></i></td>
-//         <td>Malawi</td>
-//         <td>mw</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="mexico flag"></i></td>
-//         <td>Mexico</td>
-//         <td>mx</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="malaysia flag"></i></td>
-//         <td>Malaysia</td>
-//         <td>my</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
 //         <td><i class="mozambique flag"></i></td>
 //         <td>Mozambique</td>
 //         <td>mz</td>

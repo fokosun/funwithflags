@@ -380,14 +380,10 @@ let data = [
         'country': 'guinea-bissau',
         'nationality': 'guinea-bissau'
     }, {
-        'code': 'gw',
+        'code': 'gy',
         'country': 'guyana',
         'nationality': 'guyana'
-    }, {
-        'code': 'gw',
-        'country': 'guyana',
-        'nationality': 'guyana'
-    },
+    },  
 ];
 
 module.exports = {

@@ -383,187 +383,129 @@ let data = [
         'code': 'gy',
         'country': 'guyana',
         'nationality': 'guyana'
-    },  
+    }, {
+        'code': 'hk',
+        'country': 'hong kong',
+        'nationality': 'hong kong'
+    }, {
+        'code': 'hm',
+        'country': 'heard island',
+        'nationality': 'heard island'
+    }, {
+        'code': 'hn',
+        'country': 'honduras',
+        'nationality': 'honduras'
+    }, {
+        'code': 'hr',
+        'country': 'croatia',
+        'nationality': 'croatia'
+    }, {
+        'code': 'ht',
+        'country': 'haiti',
+        'nationality': 'haiti'
+    }, {
+        'code': 'hu',
+        'country': 'hungary',
+        'nationality': 'hungary'
+    }, {
+        'code': 'id',
+        'country': 'indonesia',
+        'nationality': 'indonesia'
+    }, {
+        'code': 'ie',
+        'country': 'ireland',
+        'nationality': 'ireland'
+    }, {
+        'code': 'il',
+        'country': 'israel',
+        'nationality': 'israel'
+    }, {
+        'code': 'in',
+        'country': 'india',
+        'nationality': 'india'
+    }, {
+        'code': 'io',
+        'country': 'indian ocean territory',
+        'nationality': 'indian ocean territory'
+    }, {
+        'code': 'iq',
+        'country': 'iraq',
+        'nationality': 'iraq'
+    }, {
+        'code': 'ir',
+        'country': 'iran',
+        'nationality': 'iran'
+    }, {
+        'code': 'is',
+        'country': 'iceland',
+        'nationality': 'iceland'
+    }, {
+        'code': 'it',
+        'country': 'italy',
+        'nationality': 'italy'
+    }, {
+        'code': 'jm',
+        'country': 'jamaica',
+        'nationality': 'jamaican'
+    }, {
+        'code': 'jo',
+        'country': 'jordan',
+        'nationality': 'jordan'
+    }, {
+        'code': 'jp',
+        'country': 'japan',
+        'nationality': 'japan'
+    }, {
+        'code': 'ke',
+        'country': 'kenya',
+        'nationality': 'kenya'
+    }, {
+        'code': 'kg',
+        'country': 'kyrgyzstan',
+        'nationality': 'kyrgyzstan'
+    }, {
+        'code': 'kh',
+        'country': 'cambodia',
+        'nationality': 'cambodian'
+    }, {
+        'code': 'ki',
+        'country': 'kiribati',
+        'nationality': 'kiribati'
+    }, {
+        'code': 'km',
+        'country': 'comoros',
+        'nationality': 'comoros'
+    }, {
+        'code': 'kn',
+        'country': 'saint kitts and nevis',
+        'nationality': 'saint kitts and nevis'
+    }, {
+        'code': 'kp',
+        'country': 'north korea',
+        'nationality': 'north korea'
+    }, {
+        'code': 'kr',
+        'country': 'south korea',
+        'nationality': 'south korea'
+    }, {
+        'code': 'kw',
+        'country': 'kuwait',
+        'nationality': 'kuwait'
+    }, {
+        'code': 'ky',
+        'country': 'cayman islands',
+        'nationality': 'cayman islands'
+    }, {
+        'code': 'kz',
+        'country': 'kazakhstan',
+        'nationality': 'kazakhstan'
+    },
 ];
 
 module.exports = {
     data
 };
 
-//         <td><i class="hong kong flag"></i></td>
-//         <td>Hong Kong</td>
-//         <td>hk</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="heard island flag"></i></td>
-//         <td>Heard Island</td>
-//         <td>hm</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="honduras flag"></i></td>
-//         <td>Honduras</td>
-//         <td>hn</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="croatia flag"></i></td>
-//         <td>Croatia</td>
-//         <td>hr</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="haiti flag"></i></td>
-//         <td>Haiti</td>
-//         <td>ht</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="hungary flag"></i></td>
-//         <td>Hungary</td>
-//         <td>hu</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="indonesia flag"></i></td>
-//         <td>Indonesia</td>
-//         <td>id</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="ireland flag"></i></td>
-//         <td>Ireland</td>
-//         <td>ie</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="israel flag"></i></td>
-//         <td>Israel</td>
-//         <td>il</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="india flag"></i></td>
-//         <td>India</td>
-//         <td>in</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="indian ocean territory flag"></i></td>
-//         <td>Indian Ocean Territory</td>
-//         <td>io</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="iraq flag"></i></td>
-//         <td>Iraq</td>
-//         <td>iq</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="iran flag"></i></td>
-//         <td>Iran</td>
-//         <td>ir</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="iceland flag"></i></td>
-//         <td>Iceland</td>
-//         <td>is</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="italy flag"></i></td>
-//         <td>Italy</td>
-//         <td>it</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="jamaica flag"></i></td>
-//         <td>Jamaica</td>
-//         <td>jm</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="jordan flag"></i></td>
-//         <td>Jordan</td>
-//         <td>jo</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="japan flag"></i></td>
-//         <td>Japan</td>
-//         <td>jp</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="kenya flag"></i></td>
-//         <td>Kenya</td>
-//         <td>ke</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="kyrgyzstan flag"></i></td>
-//         <td>Kyrgyzstan</td>
-//         <td>kg</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="cambodia flag"></i></td>
-//         <td>Cambodia</td>
-//         <td>kh</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="kiribati flag"></i></td>
-//         <td>Kiribati</td>
-//         <td>ki</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="comoros flag"></i></td>
-//         <td>Comoros</td>
-//         <td>km</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="saint kitts and nevis flag"></i></td>
-//         <td>Saint Kitts And Nevis</td>
-//         <td>kn</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="north korea flag"></i></td>
-//         <td>North Korea</td>
-//         <td>kp</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="south korea flag"></i></td>
-//         <td>South Korea</td>
-//         <td>kr</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="kuwait flag"></i></td>
-//         <td>Kuwait</td>
-//         <td>kw</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="cayman islands flag"></i></td>
-//         <td>Cayman Islands</td>
-//         <td>ky</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="kazakhstan flag"></i></td>
-//         <td>Kazakhstan</td>
-//         <td>kz</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
 //         <td><i class="laos flag"></i></td>
 //         <td>Laos</td>
 //         <td>la</td>

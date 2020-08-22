@@ -28,15 +28,13 @@ export default {
         flags: Array
     },
     data () {
-        return {
-            nationality: ''
-        }
+        return {}
     },
     methods: {
         generateFlagClass: function (code) {
-			let class_ = code + " flag";
-			return class_;
-		}
+            let class_ = code + " flag";
+            return class_;
+        }
     }
 }
 </script>

@@ -143,6 +143,82 @@ let data = [
         'code': 'bz',
         'country': 'belize',
         'nationality': 'belize'
+    }, {
+        'code': 'ca',
+        'country': 'canada',
+        'nationality': 'canada'
+    },  {
+        'code': 'cc',
+        'country': 'cocos islands',
+        'nationality': 'cocos islands'
+    },  {
+        'code': 'cd',
+        'country': 'congo',
+        'nationality': 'congo'
+    },  {
+        'code': 'cf',
+        'country': 'central african republic',
+        'nationality': 'central african republic'
+    }, {
+        'code': 'cg',
+        'country': 'congo brazzaville',
+        'nationality': 'congo brazzaville'
+    }, {
+        'code': 'ch',
+        'country': 'switzerland',
+        'nationality': 'switzerland'
+    }, {
+        'code': 'ci',
+        'country': 'cote divoire',
+        'nationality': 'cote divoire'
+    }, {
+        'code': 'ck',
+        'country': 'cook islands',
+        'nationality': 'cook islands'
+    }, {
+        'code': 'cl',
+        'country': 'chile',
+        'nationality': 'chile'
+    }, {
+        'code': 'cm',
+        'country': 'cameroon',
+        'nationality': 'cameroon'
+    }, {
+        'code': 'cn',
+        'country': 'china',
+        'nationality': 'chinese'
+    }, {
+        'code': 'co',
+        'country': 'colombia',
+        'nationality': 'colombian'
+    }, {
+        'code': 'cr',
+        'country': 'costa rica',
+        'nationality': 'costa rica'
+    }, {
+        'code': 'cs',
+        'country': 'serbia',
+        'nationality': 'serbia'
+    }, {
+        'code': 'cu',
+        'country': 'cuba',
+        'nationality': 'cuba'
+    }, {
+        'code': 'cv',
+        'country': 'cape verde',
+        'nationality': 'cape verde'
+    }, {
+        'code': 'cx',
+        'country': 'christmas island',
+        'nationality': 'christmas island'
+    },  {
+        'code': 'cy',
+        'country': 'cyprus',
+        'nationality': 'cyprus'
+    }, {
+        'code': 'cz',
+        'country': 'czech republic',
+        'nationality': 'czech republic'
     },
 ];
 
@@ -150,120 +226,6 @@ module.exports = {
     data
 };
 
-//         <td><i class="canada flag"></i></td>
-//         <td>Canada</td>
-//         <td>ca</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="cocos islands flag"></i></td>
-//         <td>Cocos Islands</td>
-//         <td>cc</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="congo flag"></i></td>
-//         <td>Congo</td>
-//         <td>cd</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="central african republic flag"></i></td>
-//         <td>Central African Republic</td>
-//         <td>cf</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="congo brazzaville flag"></i></td>
-//         <td>Congo Brazzaville</td>
-//         <td>cg</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="switzerland flag"></i></td>
-//         <td>Switzerland</td>
-//         <td>ch</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="cote divoire flag"></i></td>
-//         <td>Cote Divoire</td>
-//         <td>ci</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="cook islands flag"></i></td>
-//         <td>Cook Islands</td>
-//         <td>ck</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="chile flag"></i></td>
-//         <td>Chile</td>
-//         <td>cl</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="cameroon flag"></i></td>
-//         <td>Cameroon</td>
-//         <td>cm</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="china flag"></i></td>
-//         <td>China</td>
-//         <td>cn</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="colombia flag"></i></td>
-//         <td>Colombia</td>
-//         <td>co</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="costa rica flag"></i></td>
-//         <td>Costa Rica</td>
-//         <td>cr</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="serbia flag"></i></td>
-//         <td>Serbia</td>
-//         <td>cs</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="cuba flag"></i></td>
-//         <td>Cuba</td>
-//         <td>cu</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="cape verde flag"></i></td>
-//         <td>Cape Verde</td>
-//         <td>cv</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="christmas island flag"></i></td>
-//         <td>Christmas Island</td>
-//         <td>cx</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="cyprus flag"></i></td>
-//         <td>Cyprus</td>
-//         <td>cy</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="czech republic flag"></i></td>
-//         <td>Czech Republic</td>
-//         <td>cz</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
 //         <td><i class="germany flag"></i></td>
 //         <td>Germany</td>
 //         <td>de</td>

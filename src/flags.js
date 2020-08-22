@@ -219,6 +219,26 @@ let data = [
         'code': 'cz',
         'country': 'czech republic',
         'nationality': 'czech republic'
+    }, {
+        'code': 'de',
+        'country': 'germany',
+        'nationality': 'german'
+    }, {
+        'code': 'dj',
+        'country': 'djibouti',
+        'nationality': 'djibouti'
+    }, {
+        'code': 'dk',
+        'country': 'denmark',
+        'nationality': 'denmark'
+    }, {
+        'code': 'dm',
+        'country': 'dominica',
+        'nationality': 'dominica'
+    },  {
+        'code': 'dz',
+        'country': 'algeria',
+        'nationality': 'algeria'
     },
 ];
 
@@ -226,42 +246,6 @@ module.exports = {
     data
 };
 
-//         <td><i class="germany flag"></i></td>
-//         <td>Germany</td>
-//         <td>de</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="djibouti flag"></i></td>
-//         <td>Djibouti</td>
-//         <td>dj</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="denmark flag"></i></td>
-//         <td>Denmark</td>
-//         <td>dk</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="dominica flag"></i></td>
-//         <td>Dominica</td>
-//         <td>dm</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="dominican republic flag"></i></td>
-//         <td>Dominican Republic</td>
-//         <td>do</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="algeria flag"></i></td>
-//         <td>Algeria</td>
-//         <td>dz</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
 //         <td><i class="ecuador flag"></i></td>
 //         <td>Ecuador</td>
 //         <td>ec</td>

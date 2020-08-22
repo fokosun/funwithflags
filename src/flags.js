@@ -67,127 +67,89 @@ let data = [
         'code': 'az',
         'country': 'azerbaijan',
         'nationality': 'azerbaijan'
+    }, {
+        'code': 'ba',
+        'country': 'bosnia',
+        'nationality': 'bosnian'
+    }, {
+        'code': 'bb',
+        'country': 'barbados',
+        'nationality': 'barbados'
+    }, {
+        'code': 'bd',
+        'country': 'bangladesh',
+        'nationality': 'bangladesh'
+    }, {
+        'code': 'be',
+        'country': 'belgium',
+        'nationality': 'belgium'
+    }, {
+        'code': 'bf',
+        'country': 'burkina faso',
+        'nationality': 'burkina faso'
+    }, {
+        'code': 'bg',
+        'country': 'Bulgaria',
+        'nationality': 'Bulgaria'
+    }, {
+        'code': 'bh',
+        'country': 'bahrain',
+        'nationality': 'bahrain'
+    }, {
+        'code': 'bi',
+        'country': 'burundi',
+        'nationality': 'burundi'
+    }, {
+        'code': 'bj',
+        'country': 'benin',
+        'nationality': 'benin'
+    }, {
+        'code': 'bm',
+        'country': 'Bermuda',
+        'nationality': 'Bermuda'
+    }, {
+        'code': 'bn',
+        'country': 'brunei',
+        'nationality': 'brunei'
+    }, {
+        'code': 'bo',
+        'country': 'bolivia',
+        'nationality': 'bolivia'
+    }, {
+        'code': 'br',
+        'country': 'brazil',
+        'nationality': 'brazillian'
+    }, {
+        'code': 'bs',
+        'country': 'bahamas',
+        'nationality': 'bahamas'
+    }, {
+        'code': 'bt',
+        'country': 'bhutan',
+        'nationality': 'bhutan'
+    }, {
+        'code': 'bv',
+        'country': 'bouvet island',
+        'nationality': 'bouvet island'
+    }, {
+        'code': 'bw',
+        'country': 'botswana',
+        'nationality': 'botswana'
+    }, {
+        'code': 'by',
+        'country': 'belarus',
+        'nationality': 'belarus'
+    }, {
+        'code': 'bz',
+        'country': 'belize',
+        'nationality': 'belize'
     },
 ];
 
 module.exports = {
     data
 };
-  
-//         <td><i class="bosnia flag"></i></td>
-//         <td>Bosnia</td>
-//         <td>ba</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="barbados flag"></i></td>
-//         <td>Barbados</td>
-//         <td>bb</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="bangladesh flag"></i></td>
-//         <td>Bangladesh</td>
-//         <td>bd</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="belgium flag"></i></td>
-//         <td>Belgium</td>
-//         <td>be</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="burkina faso flag"></i></td>
-//         <td>Burkina Faso</td>
-//         <td>bf</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="bulgaria flag"></i></td>
-//         <td>Bulgaria</td>
-//         <td>bg</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="bahrain flag"></i></td>
-//         <td>Bahrain</td>
-//         <td>bh</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="burundi flag"></i></td>
-//         <td>Burundi</td>
-//         <td>bi</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="benin flag"></i></td>
-//         <td>Benin</td>
-//         <td>bj</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="bermuda flag"></i></td>
-//         <td>Bermuda</td>
-//         <td>bm</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="brunei flag"></i></td>
-//         <td>Brunei</td>
-//         <td>bn</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="bolivia flag"></i></td>
-//         <td>Bolivia</td>
-//         <td>bo</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="brazil flag"></i></td>
-//         <td>Brazil</td>
-//         <td>br</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="bahamas flag"></i></td>
-//         <td>Bahamas</td>
-//         <td>bs</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="bhutan flag"></i></td>
-//         <td>Bhutan</td>
-//         <td>bt</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="bouvet island flag"></i></td>
-//         <td>Bouvet Island</td>
-//         <td>bv</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="botswana flag"></i></td>
-//         <td>Botswana</td>
-//         <td>bw</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="belarus flag"></i></td>
-//         <td>Belarus</td>
-//         <td>by</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="belize flag"></i></td>
-//         <td>Belize</td>
-//         <td>bz</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
+
 //         <td><i class="canada flag"></i></td>
 //         <td>Canada</td>
 //         <td>ca</td>

@@ -1,22 +1,27 @@
 <template>
-<div class="ui grid">
-    <div class="three wide column">
-        {{ nationality }}
-     </div>
-     <div class="three wide column">
-        <select class="ui dropdown">
-            <option value="1" v-for="flagObject in flags">
-                {{ flagObject.code }}
-            </option>
-        </select>
-     </div>
-     <div class="three wide column">
-         <i class=""></i>
+<div>
+    <div class="ui fluid search selection dropdown">
+        <input type="hidden" name="country">
+        <i class="dropdown icon"></i>
+        <div class="default text">Select Country</div>
+        <div class="menu">
+            <div class="item" data-value="af" v-for="f in flags">
+                <i :class="generateFlagClass(f.code)"></i>
+                <span class="capitalize">
+                    {{ f.country }}
+                </span>
+                <span class="ui right floated">
+                    {{ f.nationality }}
+                </span>
+            </div>
+        </div>
     </div>
 </div>
 </template>
 
 <script>
+import script from './script.js'
+
 export default {
     name: 'FunWithFlagsCompoenent',
     props: {
@@ -24,9 +29,20 @@ export default {
     },
     data () {
         return {
-            nationality: '',
-            _class: ''
+            nationality: ''
         }
+    },
+    methods: {
+        generateFlagClass: function (code) {
+			let class_ = code + " flag";
+			return class_;
+		}
     }
 }
 </script>
+
+<style scoped>
+.menu span {
+    text-transform: capitalize;
+}
+</style>

@@ -235,10 +235,46 @@ let data = [
         'code': 'dm',
         'country': 'dominica',
         'nationality': 'dominica'
-    },  {
+    }, {
         'code': 'dz',
         'country': 'algeria',
         'nationality': 'algeria'
+    }, {
+        'code': 'ec',
+        'country': 'ecuador',
+        'nationality': 'ecuador'
+    }, {
+        'code': 'ee',
+        'country': 'estonia',
+        'nationality': 'estonia'
+    }, {
+        'code': 'eg',
+        'country': 'egypt',
+        'nationality': 'egypt'
+    }, {
+        'code': 'eh',
+        'country': 'western sahara',
+        'nationality': 'western sahara'
+    }, {
+        'code': 'er',
+        'country': 'eritrea',
+        'nationality': 'eritrea'
+    }, {
+        'code': 'es',
+        'country': 'spain',
+        'nationality': 'spanish'
+    }, {
+        'code': 'et',
+        'country': 'ethiopia',
+        'nationality': 'ethiopian'
+    }, {
+        'code': 'eu',
+        'country': 'european union',
+        'nationality': 'european union'
+    }, {
+        'code': 'eu',
+        'country': 'finland',
+        'nationality': 'finish'
     },
 ];
 
@@ -246,54 +282,6 @@ module.exports = {
     data
 };
 
-//         <td><i class="ecuador flag"></i></td>
-//         <td>Ecuador</td>
-//         <td>ec</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="estonia flag"></i></td>
-//         <td>Estonia</td>
-//         <td>ee</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="egypt flag"></i></td>
-//         <td>Egypt</td>
-//         <td>eg</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="western sahara flag"></i></td>
-//         <td>Western Sahara</td>
-//         <td>eh</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="eritrea flag"></i></td>
-//         <td>Eritrea</td>
-//         <td>er</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="spain flag"></i></td>
-//         <td>Spain</td>
-//         <td>es</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="ethiopia flag"></i></td>
-//         <td>Ethiopia</td>
-//         <td>et</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="european union flag"></i></td>
-//         <td>European Union</td>
-//         <td>eu</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
 //         <td><i class="finland flag"></i></td>
 //         <td>Finland</td>
 //         <td>fi</td>

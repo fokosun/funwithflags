@@ -31,9 +31,9 @@ Building this component is the easiet part, you can build it your self. This rep
     ]
 ```
 
-If you have not built a select options component before to display flags, then you can follow the example in FunWithFlags component `src/FunWithFlagsComponent.vue` as an example. You only need to provide the flags data as a prop to the component. (See lines 4, 11 and 15 in `src/App.vue`) The js file holding the list of flag objects canbe found here `src/flags.js`.
+If you have not built a select options component before to display flags, then you can follow the example in FunWithFlags component `src/FunWithFlagsComponent.vue` as an example. You only need to provide the flags data as a prop to the component. (See lines 4, 11 and 15 in `src/App.vue`) The js file holding the list of flag objects can be found here `src/flags.js`.
 
-I'll try to continue updating the js file. You are welcome to contribute to it, copy it whatever the heck you want to do with it just as long as it both helps make your work easier or/and it helps other developers' work easier.
+I'll try to ensure that the js file is updated on a regular basis, however you are welcome to contribute to it, copy it whatever the heck you want to do with it just as long as it both helps make your work easier or/and it helps other developers' work easier.
 
 ## Hope you have fun with FunWithFlags
 ![](https://media.giphy.com/media/3ohs83cvmud7ThYTzq/giphy.gif)

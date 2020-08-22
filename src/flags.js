@@ -627,6 +627,54 @@ let data = [
         'code': 'mz',
         'country': 'mozambique',
         'nationality': 'mozambique'
+    }, {
+        'code': 'na',
+        'country': 'namibia',
+        'nationality': 'namibia'
+    }, {
+        'code': 'nc',
+        'country': 'new caledonia',
+        'nationality': 'new caledonia'
+    }, {
+        'code': 'ne',
+        'country': 'niger',
+        'nationality': 'niger'
+    }, {
+        'code': 'nf',
+        'country': 'norfolk island',
+        'nationality': 'norfolk island'
+    }, {
+        'code': 'ng',
+        'country': 'nigeria',
+        'nationality': 'nigerian'
+    }, {
+        'code': 'ni',
+        'country': 'nicaragua',
+        'nationality': 'nicaragua'
+    }, {
+        'code': 'nl',
+        'country': 'netherlands',
+        'nationality': 'netherlands'
+    }, {
+        'code': 'no',
+        'country': 'norway',
+        'nationality': 'norway'
+    }, {
+        'code': 'np',
+        'country': 'nepal',
+        'nationality': 'nepal'
+    }, {
+        'code': 'nr',
+        'country': 'nauru',
+        'nationality': 'nauru'
+    }, {
+        'code': 'nu',
+        'country': 'niue',
+        'nationality': 'niue'
+    }, {
+        'code': 'nz',
+        'country': 'new zealand',
+        'nationality': 'new zealand'
     },
 ];
 
@@ -634,84 +682,6 @@ module.exports = {
     data
 };
 
-//         <td><i class="mozambique flag"></i></td>
-//         <td>Mozambique</td>
-//         <td>mz</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="namibia flag"></i></td>
-//         <td>Namibia</td>
-//         <td>na</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="new caledonia flag"></i></td>
-//         <td>New Caledonia</td>
-//         <td>nc</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="niger flag"></i></td>
-//         <td>Niger</td>
-//         <td>ne</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="norfolk island flag"></i></td>
-//         <td>Norfolk Island</td>
-//         <td>nf</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="nigeria flag"></i></td>
-//         <td>Nigeria</td>
-//         <td>ng</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="nicaragua flag"></i></td>
-//         <td>Nicaragua</td>
-//         <td>ni</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="netherlands flag"></i></td>
-//         <td>Netherlands</td>
-//         <td>nl</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="norway flag"></i></td>
-//         <td>Norway</td>
-//         <td>no</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="nepal flag"></i></td>
-//         <td>Nepal</td>
-//         <td>np</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="nauru flag"></i></td>
-//         <td>Nauru</td>
-//         <td>nr</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="niue flag"></i></td>
-//         <td>Niue</td>
-//         <td>nu</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="new zealand flag"></i></td>
-//         <td>New Zealand</td>
-//         <td>nz</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
 //         <td><i class="oman flag"></i></td>
 //         <td>Oman</td>
 //         <td>om</td>

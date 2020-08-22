@@ -675,6 +675,170 @@ let data = [
         'code': 'nz',
         'country': 'new zealand',
         'nationality': 'new zealand'
+    }, {
+        'code': 'om',
+        'country': 'oman',
+        'nationality': 'oman'
+    }, {
+        'code': 'pa',
+        'country': 'panama',
+        'nationality': 'panama'
+    }, {
+        'code': 'pe',
+        'country': 'peru',
+        'nationality': 'peru'
+    }, {
+        'code': 'pf',
+        'country': 'french polynesia',
+        'nationality': 'french polynesia'
+    }, {
+        'code': 'pg',
+        'country': 'new guinea',
+        'nationality': 'new guinea'
+    }, {
+        'code': 'ph',
+        'country': 'philippines',
+        'nationality': 'philippines'
+    }, {
+        'code': 'pk',
+        'country': 'pakistan',
+        'nationality': 'pakistan'
+    }, {
+        'code': 'pl',
+        'country': 'poland',
+        'nationality': 'poland'
+    }, {
+        'code': 'pm',
+        'country': 'saint pierre',
+        'nationality': 'saint pierre'
+    }, {
+        'code': 'pn',
+        'country': 'pitcairn islands',
+        'nationality': 'pitcairn islands'
+    }, {
+        'code': 'pr',
+        'country': 'puerto rico',
+        'nationality': 'puerto rico'
+    }, {
+        'code': 'ps',
+        'country': 'palestine',
+        'nationality': 'palestine'
+    }, {
+        'code': 'pt',
+        'country': 'portugal',
+        'nationality': 'portugal'
+    }, {
+        'code': 'pw',
+        'country': 'palau',
+        'nationality': 'palau'
+    }, {
+        'code': 'py',
+        'country': 'paraguay',
+        'nationality': 'paraguay'
+    }, {
+        'code': 'qa',
+        'country': 'qatar',
+        'nationality': 'qatar'
+    }, {
+        'code': 're',
+        'country': 'reunion',
+        'nationality': 'reunion'
+    }, {
+        'code': 'ro',
+        'country': 'romania',
+        'nationality': 'romania'
+    }, {
+        'code': 'rs',
+        'country': 'serbia',
+        'nationality': 'serbia'
+    }, {
+        'code': 'ru',
+        'country': 'russia',
+        'nationality': 'russian'
+    }, {
+        'code': 'rw',
+        'country': 'rwanda',
+        'nationality': 'rwanda'
+    }, {
+        'code': 'sa',
+        'country': 'saudi arabia',
+        'nationality': 'saudi arabia'
+    }, {
+        'code': 'sb',
+        'country': 'solomon islands',
+        'nationality': 'solomon islands'
+    }, {
+        'code': 'sc',
+        'country': 'seychelles',
+        'nationality': 'seychelles'
+    }, {
+        'code': 'sd',
+        'country': 'sudan',
+        'nationality': 'sudan'
+    }, {
+        'code': 'se',
+        'country': 'sweden',
+        'nationality': 'sweden'
+    }, {
+        'code': 'sg',
+        'country': 'singapore',
+        'nationality': 'singapore'
+    }, {
+        'code': 'sh',
+        'country': 'saint helena',
+        'nationality': 'saint helena'
+    }, {
+        'code': 'si',
+        'country': 'slovenia',
+        'nationality': 'slovenia'
+    }, {
+        'code': 'sj',
+        'country': 'jan mayen',
+        'nationality': 'jan mayen'
+    }, {
+        'code': 'sk',
+        'country': 'slovakia',
+        'nationality': 'slovakia'
+    }, {
+        'code': 'sl',
+        'country': 'sierra leone',
+        'nationality': 'sierra leone'
+    }, {
+        'code': 'sm',
+        'country': 'san marino',
+        'nationality': 'san marino'
+    }, {
+        'code': 'sn',
+        'country': 'senegal',
+        'nationality': 'senegal'
+    }, {
+        'code': 'so',
+        'country': 'somalia',
+        'nationality': 'somalia'
+    }, {
+        'code': 'sr',
+        'country': 'suriname',
+        'nationality': 'suriname'
+    }, {
+        'code': 'st',
+        'country': 'sao tome',
+        'nationality': 'sao tome'
+    }, {
+        'code': 'sv',
+        'country': 'el salvador',
+        'nationality': 'el salvador'
+    }, {
+        'code': 'sy',
+        'country': 'syria',
+        'nationality': 'syria'
+    }, {
+        'code': 'sz',
+        'country': 'swaziland',
+        'nationality': 'swaziland'
+    }, {
+        'code': 'sz',
+        'country': 'caicos islands',
+        'nationality': 'caicos islands'
     },
 ];
 
@@ -682,246 +846,7 @@ module.exports = {
     data
 };
 
-//         <td><i class="oman flag"></i></td>
-//         <td>Oman</td>
-//         <td>om</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="panama flag"></i></td>
-//         <td>Panama</td>
-//         <td>pa</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="peru flag"></i></td>
-//         <td>Peru</td>
-//         <td>pe</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="french polynesia flag"></i></td>
-//         <td>French Polynesia</td>
-//         <td>pf</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="new guinea flag"></i></td>
-//         <td>New Guinea</td>
-//         <td>pg</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="philippines flag"></i></td>
-//         <td>Philippines</td>
-//         <td>ph</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="pakistan flag"></i></td>
-//         <td>Pakistan</td>
-//         <td>pk</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="poland flag"></i></td>
-//         <td>Poland</td>
-//         <td>pl</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="saint pierre flag"></i></td>
-//         <td>Saint Pierre</td>
-//         <td>pm</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="pitcairn islands flag"></i></td>
-//         <td>Pitcairn Islands</td>
-//         <td>pn</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="puerto rico flag"></i></td>
-//         <td>Puerto Rico</td>
-//         <td>pr</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="palestine flag"></i></td>
-//         <td>Palestine</td>
-//         <td>ps</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="portugal flag"></i></td>
-//         <td>Portugal</td>
-//         <td>pt</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="palau flag"></i></td>
-//         <td>Palau</td>
-//         <td>pw</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="paraguay flag"></i></td>
-//         <td>Paraguay</td>
-//         <td>py</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="qatar flag"></i></td>
-//         <td>Qatar</td>
-//         <td>qa</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="reunion flag"></i></td>
-//         <td>Reunion</td>
-//         <td>re</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="romania flag"></i></td>
-//         <td>Romania</td>
-//         <td>ro</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="serbia flag"></i></td>
-//         <td>Serbia</td>
-//         <td>rs</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="russia flag"></i></td>
-//         <td>Russia</td>
-//         <td>ru</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="rwanda flag"></i></td>
-//         <td>Rwanda</td>
-//         <td>rw</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="saudi arabia flag"></i></td>
-//         <td>Saudi Arabia</td>
-//         <td>sa</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="solomon islands flag"></i></td>
-//         <td>Solomon Islands</td>
-//         <td>sb</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="seychelles flag"></i></td>
-//         <td>Seychelles</td>
-//         <td>sc</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="sudan flag"></i></td>
-//         <td>Sudan</td>
-//         <td>sd</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="sweden flag"></i></td>
-//         <td>Sweden</td>
-//         <td>se</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="singapore flag"></i></td>
-//         <td>Singapore</td>
-//         <td>sg</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="saint helena flag"></i></td>
-//         <td>Saint Helena</td>
-//         <td>sh</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="slovenia flag"></i></td>
-//         <td>Slovenia</td>
-//         <td>si</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="jan mayen flag"></i></td>
-//         <td>Jan Mayen</td>
-//         <td>sj</td>
-//         <td>Svalbard</td>
-//       </tr>
-//       <tr>
-//         <td><i class="slovakia flag"></i></td>
-//         <td>Slovakia</td>
-//         <td>sk</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="sierra leone flag"></i></td>
-//         <td>Sierra Leone</td>
-//         <td>sl</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="san marino flag"></i></td>
-//         <td>San Marino</td>
-//         <td>sm</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="senegal flag"></i></td>
-//         <td>Senegal</td>
-//         <td>sn</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="somalia flag"></i></td>
-//         <td>Somalia</td>
-//         <td>so</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="suriname flag"></i></td>
-//         <td>Suriname</td>
-//         <td>sr</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="sao tome flag"></i></td>
-//         <td>Sao Tome</td>
-//         <td>st</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="el salvador flag"></i></td>
-//         <td>El Salvador</td>
-//         <td>sv</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="syria flag"></i></td>
-//         <td>Syria</td>
-//         <td>sy</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="swaziland flag"></i></td>
-//         <td>Swaziland</td>
-//         <td>sz</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
+
 //         <td><i class="caicos islands flag"></i></td>
 //         <td>Caicos Islands</td>
 //         <td>tc</td>

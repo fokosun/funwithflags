@@ -40,6 +40,8 @@ I'll try to ensure that the js file is updated on a regular basis, however you a
 
 
 ## Flags Data Categories
+There are a few categories included in this repo. You can choose the source you need by setting the right path `line 11 src/App.vue`
+
 - All (List of flag objects for all countries)
 - By continents e.g Africa, Europe, Asia etc
 - By regions e.g West African countries, East African countries etc

@@ -23,7 +23,7 @@
 import script from './script.js'
 
 export default {
-    name: 'FunWithFlagsCompoenent',
+    name: 'FunWithFlagsComponent',
     props: {
         flags: Array
     },

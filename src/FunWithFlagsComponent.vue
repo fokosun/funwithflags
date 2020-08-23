@@ -5,7 +5,7 @@
         <i class="dropdown icon"></i>
         <div class="default text">Select Country</div>
         <div class="menu">
-            <div class="item" data-value="af" v-for="f in flags">
+            <div class="item" v-bind:data-value="selectCountryCode(f.code)" v-for="f in flags">
                 <i :class="generateFlagClass(f.code)"></i>
                 <span class="capitalize">
                     {{ f.country }}
@@ -28,12 +28,17 @@ export default {
         flags: Array
     },
     data () {
-        return {}
+        return {
+            selectedCountryCode: 'ng'
+        }
     },
     methods: {
         generateFlagClass: function (code) {
             let class_ = code + " flag";
             return class_;
+        },
+        selectCountryCode: function(code) {
+            return code
         }
     }
 }

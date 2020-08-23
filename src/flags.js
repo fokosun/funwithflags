@@ -970,7 +970,7 @@ let data = [
     }, {
         'code': 'za',
         'country': 'south africa',
-        'nationality': 'outh africa'
+        'nationality': 'south africa'
     }, {
         'code': 'zm',
         'country': 'zambia',

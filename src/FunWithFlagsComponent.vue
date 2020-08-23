@@ -10,7 +10,7 @@
                 <span class="capitalize">
                     {{ f.country }}
                 </span>
-                <span class="ui right floated">
+                <span class="ui right floated capitalize">
                     {{ f.nationality }}
                 </span>
             </div>
@@ -28,9 +28,7 @@ export default {
         flags: Array
     },
     data () {
-        return {
-            selectedCountryCode: 'ng'
-        }
+        return {}
     },
     methods: {
         generateFlagClass: function (code) {
@@ -45,7 +43,7 @@ export default {
 </script>
 
 <style scoped>
-.menu span {
+.capitalize {
     text-transform: capitalize;
 }
 </style>

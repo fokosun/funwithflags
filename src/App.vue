@@ -8,7 +8,7 @@
 
 <script>
 import FunWithFlagsComponent from './FunWithFlagsComponent.vue'
-import flags from './flags.js'
+import flags from './data/all.js'
 
 export default {
 	name: 'app',

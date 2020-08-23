@@ -41,5 +41,5 @@ I'll try to ensure that the js file is updated on a regular basis, however you a
 
 ## Flags Data Categories
 - All (List of flag objects for all countries)
-- By continents e.g African countries, European countries, Asian countries etc
+- By continents e.g Africa, Europe, Asi etc
 - By regions e.g West African countries, East African countries etc

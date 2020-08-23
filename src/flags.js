@@ -839,228 +839,149 @@ let data = [
         'code': 'sz',
         'country': 'caicos islands',
         'nationality': 'caicos islands'
-    },
+    }, {
+        'code': 'td',
+        'country': 'chad',
+        'nationality': 'chad'
+    }, {
+        'code': 'tf',
+        'country': 'french territories',
+        'nationality': 'french territories'
+    }, {
+        'code': 'tg',
+        'country': 'togo',
+        'nationality': 'togo'
+    }, {
+        'code': 'th',
+        'country': 'thailand',
+        'nationality': 'thailand'
+    }, {
+        'code': 'tj',
+        'country': 'tajikistan',
+        'nationality': 'tajikistan'
+    }, {
+        'code': 'tk',
+        'country': 'tokelau',
+        'nationality': 'tokelau'
+    }, {
+        'code': 'tl',
+        'country': 'timorleste',
+        'nationality': 'timorleste'
+    }, {
+        'code': 'tm',
+        'country': 'turkmenistan',
+        'nationality': 'turkmenistan'
+    }, {
+        'code': 'tn',
+        'country': 'tunisia',
+        'nationality': 'tunisia'
+    }, {
+        'code': 'to',
+        'country': 'tonga',
+        'nationality': 'tonga'
+    }, {
+        'code': 'tr',
+        'country': 'turkey',
+        'nationality': 'turkey'
+    }, {
+        'code': 'tt',
+        'country': 'trinidad',
+        'nationality': 'trinidad'
+    }, {
+        'code': 'tv',
+        'country': 'tuvalu',
+        'nationality': 'tuvalu'
+    }, {
+        'code': 'tw',
+        'country': 'taiwan',
+        'nationality': 'taiwan'
+    }, {
+        'code': 'tz',
+        'country': 'tanzania',
+        'nationality': 'tanzania'
+    }, {
+        'code': 'ua',
+        'country': 'ukraine',
+        'nationality': 'ukraine'
+    }, {
+        'code': 'ug',
+        'country': 'uganda',
+        'nationality': 'uganda'
+    }, {
+        'code': 'um',
+        'country': 'us minor islands',
+        'nationality': 'us minor islands'
+    }, {
+        'code': 'us',
+        'country': 'united states',
+        'nationality': 'united states'
+    }, {
+        'code': 'uy',
+        'country': 'uruguay',
+        'nationality': 'uruguay'
+    }, {
+        'code': 'uz',
+        'country': 'uzbekistan',
+        'nationality': 'uzbekistan'
+    }, {
+        'code': 'va',
+        'country': 'vatican city',
+        'nationality': 'vatican city'
+    }, {
+        'code': 'vc',
+        'country': 'saint vincent',
+        'nationality': 'saint vincent'
+    }, {
+        'code': 've',
+        'country': 'venezuela',
+        'nationality': 'venezuela'
+    }, {
+        'code': 'vg',
+        'country': 'british virgin islands',
+        'nationality': 'british virgin islands'
+    }, {
+        'code': 'vi',
+        'country': 'us virgin islands',
+        'nationality': 'us virgin islands'
+    }, {
+        'code': 'vn',
+        'country': 'vietnam',
+        'nationality': 'vietnam'
+    }, {
+        'code': 'vu',
+        'country': 'vanuatu',
+        'nationality': 'vanuatu'
+    }, {
+        'code': 'wf',
+        'country': 'wallis and futuna',
+        'nationality': 'wallis and futuna'
+    }, {
+        'code': 'ws',
+        'country': 'samoa',
+        'nationality': 'samoa'
+    }, {
+        'code': 'ye',
+        'country': 'yemen',
+        'nationality': 'yemen'
+    }, {
+        'code': 'yt',
+        'country': 'mayotte',
+        'nationality': 'mayotte'
+    }, {
+        'code': 'za',
+        'country': 'south africa',
+        'nationality': 'outh africa'
+    }, {
+        'code': 'zm',
+        'country': 'zambia',
+        'nationality': 'zambia'
+    }, {
+        'code': 'zw',
+        'country': 'zimbabwe',
+        'nationality': 'zimbabwe'
+    }
 ];
 
 module.exports = {
     data
 };
-
-
-//         <td><i class="caicos islands flag"></i></td>
-//         <td>Caicos Islands</td>
-//         <td>tc</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="chad flag"></i></td>
-//         <td>Chad</td>
-//         <td>td</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="french territories flag"></i></td>
-//         <td>French Territories</td>
-//         <td>tf</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="togo flag"></i></td>
-//         <td>Togo</td>
-//         <td>tg</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="thailand flag"></i></td>
-//         <td>Thailand</td>
-//         <td>th</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="tajikistan flag"></i></td>
-//         <td>Tajikistan</td>
-//         <td>tj</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="tokelau flag"></i></td>
-//         <td>Tokelau</td>
-//         <td>tk</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="timorleste flag"></i></td>
-//         <td>Timorleste</td>
-//         <td>tl</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="turkmenistan flag"></i></td>
-//         <td>Turkmenistan</td>
-//         <td>tm</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="tunisia flag"></i></td>
-//         <td>Tunisia</td>
-//         <td>tn</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="tonga flag"></i></td>
-//         <td>Tonga</td>
-//         <td>to</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="turkey flag"></i></td>
-//         <td>Turkey</td>
-//         <td>tr</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="trinidad flag"></i></td>
-//         <td>Trinidad</td>
-//         <td>tt</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="tuvalu flag"></i></td>
-//         <td>Tuvalu</td>
-//         <td>tv</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="taiwan flag"></i></td>
-//         <td>Taiwan</td>
-//         <td>tw</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="tanzania flag"></i></td>
-//         <td>Tanzania</td>
-//         <td>tz</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="ukraine flag"></i></td>
-//         <td>Ukraine</td>
-//         <td>ua</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="uganda flag"></i></td>
-//         <td>Uganda</td>
-//         <td>ug</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="us minor islands flag"></i></td>
-//         <td>Us Minor Islands</td>
-//         <td>um</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="united states flag"></i></td>
-//         <td>United States</td>
-//         <td>us</td>
-//         <td>America</td>
-//       </tr>
-//       <tr>
-//         <td><i class="uruguay flag"></i></td>
-//         <td>Uruguay</td>
-//         <td>uy</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="uzbekistan flag"></i></td>
-//         <td>Uzbekistan</td>
-//         <td>uz</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="vatican city flag"></i></td>
-//         <td>Vatican City</td>
-//         <td>va</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="saint vincent flag"></i></td>
-//         <td>Saint Vincent</td>
-//         <td>vc</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="venezuela flag"></i></td>
-//         <td>Venezuela</td>
-//         <td>ve</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="british virgin islands flag"></i></td>
-//         <td>British Virgin Islands</td>
-//         <td>vg</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="us virgin islands flag"></i></td>
-//         <td>Us Virgin Islands</td>
-//         <td>vi</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="vietnam flag"></i></td>
-//         <td>Vietnam</td>
-//         <td>vn</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="vanuatu flag"></i></td>
-//         <td>Vanuatu</td>
-//         <td>vu</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="wallis and futuna flag"></i></td>
-//         <td>Wallis And Futuna</td>
-//         <td>wf</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="samoa flag"></i></td>
-//         <td>Samoa</td>
-//         <td>ws</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="yemen flag"></i></td>
-//         <td>Yemen</td>
-//         <td>ye</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="mayotte flag"></i></td>
-//         <td>Mayotte</td>
-//         <td>yt</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="south africa flag"></i></td>
-//         <td>South Africa</td>
-//         <td>za</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="zambia flag"></i></td>
-//         <td>Zambia</td>
-//         <td>zm</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       <tr>
-//         <td><i class="zimbabwe flag"></i></td>
-//         <td>Zimbabwe</td>
-//         <td>zw</td>
-//         <td class="disabled"></td>
-//       </tr>
-//       </tbody>
-//     </table>

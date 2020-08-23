@@ -36,3 +36,10 @@ I'll try to ensure that the js file is updated on a regular basis, however you a
 
 ## Hope you have fun with FunWithFlags
 ![](https://media.giphy.com/media/3ohs83cvmud7ThYTzq/giphy.gif)
+
+
+
+## Flags Data Categories
+- All (List of flag objects for all countries)
+- By continents e.g African countries, European countries, Asian countries etc
+- By regions e.g West African countries, East African countries etc

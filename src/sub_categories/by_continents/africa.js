@@ -2,7 +2,7 @@ let data = [
     {
         'code': 'dz',
         'country': 'algeria',
-        'nationality': 'lgeria'
+        'nationality': 'algerian'
     }, {
         'code': 'ao',
         'country': 'Angola',

@@ -204,7 +204,7 @@ let data = [
         'country': 'Zimbabwe',
         'nationality': 'Zimbabwe'
     }
-}
+];
 
 module.exports = {
     data
